@@ -1,0 +1,13 @@
+.elementor-kit-5{--e-global-color-primary:#13A538;--e-global-color-secondary:#818181;--e-global-color-text:#818181;--e-global-color-accent:#1BA038;--e-global-typography-primary-font-family:"Poppins";--e-global-typography-primary-font-weight:800;--e-global-typography-primary-line-height:70px;--e-global-typography-secondary-font-family:"Poppins";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Poppins";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:24px;--e-global-typography-accent-font-family:"Poppins";--e-global-typography-accent-font-size:22px;--e-global-typography-accent-font-weight:500;--e-global-typography-accent-text-transform:capitalize;color:#818181;font-family:"Poppins", Sans-serif;font-size:18px;font-weight:500;line-height:24px;}.elementor-kit-5 a{font-family:"Poppins", Sans-serif;}.elementor-kit-5 h1{font-family:"Poppins", Sans-serif;font-size:60px;font-weight:800;line-height:70px;}.elementor-kit-5 h2{font-family:"Poppins", Sans-serif;font-size:35px;font-weight:600;line-height:40px;}.elementor-kit-5 h3{font-family:"Poppins", Sans-serif;font-size:30px;line-height:36px;}.elementor-kit-5 h4{font-family:"Poppins", Sans-serif;font-size:24px;line-height:28px;}.elementor-kit-5 h5{font-family:"Poppins", Sans-serif;}.elementor-kit-5 h6{font-family:"Poppins", Sans-serif;}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:24px;background-color:#F9B233;box-shadow:0px 0px 5px 0px rgba(0,0,0,0.5);}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1240px;}.e-con{--container-max-width:1240px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.entry-title {
+    display: none!important;
+}
+main#content {
+    margin-top: -200px;
+}
+span.highlight {
+  background: linear-gradient(180deg,transparent 50%, #F9B233 50%);
+  padding: 0px 15px;
+}
+body, html {
+    overflow-x: hidden;
+}/* End custom CSS */
